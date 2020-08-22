@@ -1,0 +1,55 @@
+ section p{
+ 	width: 500px;
+ 	line-height: 19px;
+ 	border: solid 1px;
+ 	text-align: justify;
+ }	
+ header p{
+ 	background-color: black ;
+ }   
+  header h1{
+ 	color: black;
+ 	height: 500px;
+ 	text-align: center;
+ 	line-height: 500px;
+ 	
+ 	background-image: 
+ 	 url("www.png"),
+ 	 url(yyy.png);
+ 	background-position:
+ 	right top,
+ 	left top;
+ 	background-repeat: no-repeat;
+ 	background-size: 
+ 	auto,
+ 	auto;
+ 	background-attachment: fixed; 
+ }
+ h1 u{
+	color: yellow;
+	text-decoration: underline;
+	font-size: 3em;
+}
+h2{
+    color: blue;
+    font-size: 2em;
+    font-family: 'arial','trebuchet MS';
+}
+section p{
+	color:white;
+	font-family: 'arial','trebuchet MS';
+}
+section b{
+	color:blue;
+	font-size: 2em
+}
+section ol{
+	  font-family: 'arial','trebuchet MS';
+}
+section p{
+	border: solid;
+	width: 500px;
+	height: 125px;
+	box-shadow: 4px 3px 15px black;
+	border-bottom-right-radius: 45px;
+}
